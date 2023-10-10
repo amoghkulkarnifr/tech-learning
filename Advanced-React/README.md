@@ -3,6 +3,7 @@ Module 2. Advanced React
 Before we move to "advanced" React, it is important that we have a solid foundation of "basic" concepts of the framework (yes, I consider React [a framework](https://khalilstemmler.com/blogs/frontend/using-react-as-a-framework/), I don't care what the developers say). This module aims to brush up the fundamentals of React and touch upon some advanced concepts of React ecosystem. There are plenty of tools to learn and explore, so don't hesitate to venture out of this list to further your learning.
 
 ---
+
 Good starting point - [React Roadmap](https://roadmap.sh/react)
 
 ## Coursera courses 

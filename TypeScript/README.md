@@ -1,11 +1,9 @@
----
-
----
 Module 1. TypeScript
 
 This module covers some essential TypeScript knowledge required to produce good quality code in the language. We will be exclusively using TypeScript to develop our application (even though some projects have been [ditching](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/) the language recently). So it is imperative that we have a good grasp on basics, and know what the best practices are.
 
 ---
+
 Good starting point - [TypeScript Roadmap](https://roadmap.sh/typescript)
 
 ### References
@@ -56,6 +54,7 @@ Good starting point - [TypeScript Roadmap](https://roadmap.sh/typescript)
 		- Dynamic module loading - [Dynamic module loading](https://www.typescriptlang.org/docs/handbook/modules.html#optional-module-loading-and-other-advanced-loading-scenarios)
 		- Structuring of modules - [Structuring your modules]([TypeScript: Documentation - Modules (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/modules.html#guidance-for-structuring-modules))
 		- Module resolution - [TypeScript: Documentation - Module Resolution (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
+	- [Deferred loading](https://javascript.info/script-async-defer)
 - Declaration files
 	- [Typical library structure](https://www.typescriptlang.org/docs/handbook/declaration-files/library-structures.html)
 	- [Examples](https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html)
