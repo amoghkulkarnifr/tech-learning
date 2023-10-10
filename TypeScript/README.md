@@ -1,6 +1,6 @@
 Module 1. TypeScript
 
-This module covers some essential TypeScript knowledge required to produce good quality code in the language. We will be exclusively using TypeScript to develop our application (even though some projects have been [ditching](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/) the language recently). So it is imperative that we have a good grasp on basics, and know what the best practices are.
+This module covers some essential TypeScript knowledge required to produce good quality code in the language. We will be exclusively using TypeScript to develop our application (even though some projects have been [ditching](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/) the language recently). So it is imperative that we have a good grasp on basics of the language, and know what advanced features the language offers.
 
 ---
 
