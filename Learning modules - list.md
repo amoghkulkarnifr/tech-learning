@@ -1,7 +1,9 @@
 
 # TypeScript
 
-### Type system fundamentals
+Good starting point - [TypeScript Roadmap](https://roadmap.sh/typescript)
+
+### References
 - [TypeScript: Documentation - Everyday Types (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 - [TypeScript: Documentation - Narrowing (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/2/narrowing.html)
 	- `typeof` safeguard
@@ -28,7 +30,6 @@
 	- Merging interfaces
 	- Merging namespaces
 - [Enums](https://www.typescriptlang.org/docs/handbook/enums.html)
-- 
 - Type manipulation
 	- Generics [TypeScript: Documentation - Generics (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/2/generics.html)
 	- `keyof` ([TypeScript: Documentation - Keyof Type Operator (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html)) and `typeof` ([TypeScript: Documentation - Typeof Type Operator (typescriptlang.org)](https://www.typescriptlang.org/docs/handbook/2/typeof-types.html)) operators
@@ -63,17 +64,30 @@
 
 # Advanced React
 
-### Basics
+Good starting point - [React Roadmap](https://roadmap.sh/react)
 
-[React Basics | Coursera](https://www.coursera.org/learn/react-basics?specialization=meta-front-end-developer)
+## Coursera courses 
+- [React Basics | Coursera](https://www.coursera.org/learn/react-basics?specialization=meta-front-end-developer)
+- [Advanced React | Coursera](https://www.coursera.org/learn/advanced-react?specialization=meta-front-end-developer)
+- [Principles of UX/UI Design | Coursera](https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-front-end-developer)
 
-### Advanced
+## References
+#### Basics
+- Functional components
+	- [React Function Components (robinwieruch.de)](https://www.robinwieruch.de/react-function-component/)
+	- [Component – React](https://react.dev/reference/react/Component)
+- Component basics
+	- [Components life cycle](https://react.dev/learn/lifecycle-of-reactive-effects)
+	- 
 
-[Advanced React | Coursera](https://www.coursera.org/learn/advanced-react?specialization=meta-front-end-developer)
+#### Advanced
+
+- [Higher order components (HOCs)](https://www.robinwieruch.de/react-higher-order-components/)
+- 
 
 UI/UX design principles (might be helpful)
 
-[Principles of UX/UI Design | Coursera](https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-front-end-developer)
+
 
 ---
 # Software Testing
