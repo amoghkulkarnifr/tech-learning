@@ -46,6 +46,10 @@ Good starting point - [React Roadmap](https://roadmap.sh/react)
 	- [Introduction · React Native](https://reactnative.dev/docs/getting-started)
 	- [React Native · Learn once, write anywhere](https://reactnative.dev/)
 	- [What Is React Native? Complex Guide for 2023 (netguru.com)](https://www.netguru.com/glossary/react-native)
+	- [React Native component library roundup (retool.com)](https://retool.com/blog/react-native-component-library-roundup/)
+- Component Driven Development
+	- [Component Driven User Interfaces](https://www.componentdriven.org/)
+	- [How we Build a Component Design System | Bits and Pieces (bitsrc.io)](https://blog.bitsrc.io/how-we-build-our-design-system-15713a1f1833)
 
 #### Important libraries
 
@@ -78,3 +82,6 @@ Good starting point - [React Roadmap](https://roadmap.sh/react)
 	- [Storybook for React | BrowserStack](https://www.browserstack.com/guide/storybook-for-react)
 	- [Storybook React: A Beginner's Tutorial to UI Components (snipcart.com)](https://snipcart.com/blog/storybook-react-tutorial-example)
 	- [Storybook Tutorials](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
+	- [Configure Storybook](https://storybook.js.org/docs/react/configure/overview#configure-story-loading)
+	- [TypeScript (storybook.js.org)](https://storybook.js.org/docs/react/configure/typescript)
+	- [UI Development Workflow with Storybook and Chromatic | by Kuncoro Wicaksono | Medium](https://kuncorowicaksono.medium.com/ui-development-workflow-with-storybook-and-chromatic-238d843725e9)
