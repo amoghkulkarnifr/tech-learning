@@ -54,3 +54,7 @@ ____
 - [Learn TDD in React | Learn TDD](https://learntdd.in/react/)
 - [Mastering React Test-driven Development | Toptal®](https://www.toptal.com/react/tdd-react-user-stories-to-development)
 - [Testing React Native with React-Query and Zustand | by Tarik | Level Up Coding (gitconnected.com)](https://levelup.gitconnected.com/testing-react-native-with-react-query-and-zustand-d957c2a40b73)
+
+### Misc
+- [How to mock a React component in jest](https://robertmarshall.dev/blog/how-to-mock-a-react-component-in-jest/)
+- [Unit testing: How to check what props are passed in a child component](https://robertmarshall.dev/blog/react-component-props-passed-to-child-jest-unit-test/)
