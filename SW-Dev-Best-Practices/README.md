@@ -57,3 +57,7 @@ Gang of 4 book
 
 [What is Agile? | Atlassian](https://www.atlassian.com/agile)
 
+#### Misc.
+
+- [TDD vs DDD vs BDD](https://www.linkedin.com/pulse/tdd-vs-bdd-ddd-vitalii-serdiuk/)
+
