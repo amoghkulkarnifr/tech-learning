@@ -60,4 +60,5 @@ Gang of 4 book
 #### Misc.
 
 - [TDD vs DDD vs BDD](https://www.linkedin.com/pulse/tdd-vs-bdd-ddd-vitalii-serdiuk/)
-
+- Accessibility Fundamentals
+    - [a11yCasts - YouTube playlist by google](https://youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g&si=IoqFb6BBOR44ZKri)
